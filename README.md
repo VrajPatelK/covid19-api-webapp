@@ -6,7 +6,7 @@
 ``` 
 https://disease.sh/v3/covid-19/countries 
 ```
-<br>
+
 ### Technologies Used
 <p align="left">
   <a>
@@ -24,8 +24,6 @@ https://disease.sh/v3/covid-19/countries
 
 </p>
 
-<br>
-
 ### Getting Started
 ###### To run this project on your local machine, follow these steps:
 1. Clone this repository using git clone 
@@ -40,7 +38,6 @@ cd covid19-api-webapp
 ``` 
 http://localhost:5500 
 ```
-<br>
 
 ### Features
 * Fetches data from an online COVID-19 API using routing by AngularJS.
@@ -48,8 +45,6 @@ http://localhost:5500
 * Uses Bootstrap to make the interface responsive and mobile-friendly.
 * Add search functionality to allow users to search for specific countries.
 * Display data on a map to provide a visual representation of COVID-19 statistics.
-
-<br>
 
 ### Acknowledgments
 * Thanks to the creators of the COVID-19 API used in this project.
