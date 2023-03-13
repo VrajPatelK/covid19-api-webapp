@@ -28,13 +28,13 @@ https://disease.sh/v3/covid-19/countries
 ###### To run this project on your local machine, follow these steps:
 1. Clone this repository using git clone 
 ```
-https://github.com/your-username/covid19-api-webapp.git
+https://github.com/VrajPatelK/covid19-api-webapp.git
 ```
 2. Navigate to the project directory using 
 ```
 cd covid19-api-webapp
 ```
-3. Open a web browser and navigate to 
+3. Open a web browser and navigate to (If live server plugin installed)
 ``` 
 http://localhost:5500 
 ```
@@ -49,3 +49,14 @@ http://localhost:5500
 ### Acknowledgments
 * Thanks to the creators of the COVID-19 API used in this project.
 * Thanks to the Bootstrap team for creating a great CSS framework.
+
+
+### Preview
+
+![img-1](./Image/img-1.png)
+![img-2](./Image/img-2.png)
+
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+    <img src="./Image/img-3.png" width="150rem" />
+    <img src="./Image/img-4.png" width="150rem" />
+</div>
